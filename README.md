@@ -36,5 +36,10 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
+<<<<<<< HEAD
  - Noémie MAILLOT
  - Maxence Allier
+=======
+ - Maxence Allier
+ - Noémie MAILLOT
+>>>>>>> 3e7a6d1 (fix)
